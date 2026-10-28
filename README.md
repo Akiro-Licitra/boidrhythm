@@ -7,10 +7,13 @@ Author: Akiro Licitra
 https://github.com/user-attachments/assets/cf511323-a7ef-4e0e-9811-de0212e2b926
 
 
+Use your left hand to click on Z/X in time, and your right hand as an open palm in the direction of the flock to track it.
+
+
+
 ### Important Files
   Assets/Resources/song.mp3 -> Put your that you want to play here!
-  Assets/Scripts/GameConfig.cs -> Change fields like bpm
-
+  Assets/Scripts/GameConfig.cs -> Change fields like Bpm to match your song and experience
 
 ### Instructions to run MeidaPipe gesture component:
 
