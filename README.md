@@ -13,6 +13,7 @@ Use your left hand to click on Z/X in time, and your right hand as an open palm 
 
 ### Important Files
   Assets/Resources/song.mp3 -> Put your that you want to play here!
+  
   Assets/Scripts/GameConfig.cs -> Change fields like Bpm to match your song and experience
 
 ### Instructions to run MeidaPipe gesture component:
