@@ -3,26 +3,28 @@ Author: Akiro Licitra
 
 
 
-Instructions to run MeidaPipe gesture component:
+### Instructions to run MeidaPipe gesture component:
 
   1) Navigate to Tools folder in Terminal
      
-  2) Enter a virtual environment:
-     
+  2) Create a virtual environment:
+
+  ```powershell 
       py -3.12 -m venv .venv
-     
+  ```
+   
   3) Install/upgrade dependencies:
 
+  ```powershell
       .\.venv\Scripts\python.exe -m pip install --upgrade pip
-     
-      .\.venv\Scripts\python.exe -m pip install mediapipe==0.10.21 opencv-contrib-python
 
       .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+  ```
 
-  4) Verify hand tracker:
-
-      .\.venv\Scripts\python.exe -c "import cv2, mediapipe as mp; print('OpenCV:', cv2.__version__); print('MediaPipe:', mp.__version__); print('Hands API:', mp.solutions.hands)"
-
-     5) Run the hand tracker!
-    
+  4) Run the hand tracker!
+     
+  ```powershell
        .\.venv\Scripts\python.exe .\hand_tracker.py
+  ```
+
+  Note that once dependencies are installed, you only need to run step (4) every time you start the program. Make sure to keep the MediaPipe window open while in use.
