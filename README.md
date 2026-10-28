@@ -3,7 +3,7 @@ Author: Akiro Licitra
 
 ### Demo
 
-
+https://github.com/user-attachments/assets/144b1938-91af-4d28-9405-c099dd233553
 
 
 ### Instructions to run MeidaPipe gesture component:
