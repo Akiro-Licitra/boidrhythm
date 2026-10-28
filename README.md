@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/cf511323-a7ef-4e0e-9811-de0212e2b926
 
 Use your left hand to click on Z/X in time, and your right hand as an open palm in the direction of the flock to track it. Fist or no hand detected locks the camera in place, good for when the flock is immediately in front of you.
 
-
+[Interactive Computation Motivation.pdf](https://github.com/user-attachments/files/34105898/Interactive.Computation.Motivation.pdf)
 
 ### Important Files
   Assets/Resources/song.mp3 -> Put your song that you want to play here!
