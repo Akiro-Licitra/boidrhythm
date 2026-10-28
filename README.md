@@ -3,7 +3,13 @@ Author: Akiro Licitra
 
 ### Demo
 
-https://github.com/user-attachments/assets/144b1938-91af-4d28-9405-c099dd233553
+
+https://github.com/user-attachments/assets/cf511323-a7ef-4e0e-9811-de0212e2b926
+
+
+### Important Files
+  Assets/Resources/song.mp3 -> Put your that you want to play here!
+  Assets/Scripts/GameConfig.cs -> Change fields like bpm
 
 
 ### Instructions to run MeidaPipe gesture component:
@@ -31,3 +37,9 @@ https://github.com/user-attachments/assets/144b1938-91af-4d28-9405-c099dd233553
   ```
 
   Note that once dependencies are installed, you only need to run step (4) every time you start the program. Make sure to keep the MediaPipe window open while in use.
+
+
+  ## Video Tutorial
+
+
+  https://github.com/user-attachments/assets/144b1938-91af-4d28-9405-c099dd233553
