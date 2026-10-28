@@ -7,7 +7,7 @@ Author: Akiro Licitra
 https://github.com/user-attachments/assets/cf511323-a7ef-4e0e-9811-de0212e2b926
 
 
-Use your left hand to click on Z/X in time, and your right hand as an open palm in the direction of the flock to track it.
+Use your left hand to click on Z/X in time, and your right hand as an open palm in the direction of the flock to track it. Fist or no hand detected locks the camera in place, good for when the flock is immediately in front of you.
 
 
 
